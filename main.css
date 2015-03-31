@@ -106,6 +106,9 @@ label {
 	text-align:center;
 	box-shadow:0 0 0;
 }
+.button:active {
+	backgrou-color: blue;
+}
 div.pricing-table a.button {
 	background-color: blue;
 	border-width:0;
