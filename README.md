@@ -1,6 +1,7 @@
-# luymh
-Start-up project
+# LUYMH
+Level - Up - Your - Man - Hood - dot - com
 
-Level Up Your Manhood dot COM/CA
+This site is being built with the intention to help people with low social skills that want to improve their capabilites.
 
-Just a test.
+# ACCESS IT ONLINE RIGHT NOW!!!!!
+https://cdn.rawgit.com/danieldvorkin/luymh/master/index.html
